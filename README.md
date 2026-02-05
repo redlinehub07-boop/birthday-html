@@ -1,6 +1,14 @@
 # birthday-html
-Happy birthday 🎂 
-html,
+DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Lato:300italic);
+
+      html,
       body {
         width: 100%;
         height: 100%;
@@ -277,7 +285,7 @@ html,
       </svg>
       <div class="text">
       <h1>happy birthday!</h1>
-      <p class="name">Aaza</p>
+      <p class="name">Lovie</p>
       </div>
   </body>
 </html>
